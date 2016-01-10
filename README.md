@@ -4,10 +4,19 @@
 
 DeltaDB is an offline-first database designed to talk directly to clients and works great offline and online.
 
-Status
+
+Live Demos
 ---
 
-The core engine is functioning well and demonstrates offline capabilities for creating users, roles, policies, databases, collections and docs. Documentation and examples will be available shortly.
+* [todomvc-angular](http://delta-db.github.io/deltadb/examples/todomvc-angular) - a todo app. For fun, open it in 2 different browser windows and watch the todos change in the 2nd window when you change the todos in the 1st window.
+
+* [hello](http://codepen.io/redgeoff/pen/vLKYzN?editors=100) - a simple hello world example with code
+
+
+[Getting Started With DeltaDB](https://medium.com/@redgeoff/getting-started-with-deltadb-137359111282#.tciuz7o6b)
+---
+
+Check out the [Getting Started With DeltaDB](https://medium.com/@redgeoff/getting-started-with-deltadb-137359111282#.tciuz7o6b) tutorial
 
 
 Main Principles

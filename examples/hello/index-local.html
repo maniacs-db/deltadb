@@ -19,10 +19,9 @@
 </h3>
 
 <script>
-  var db = new DeltaDB('greetings-db', 'https://delta-dev.deltadb.io');
 
   // Uncomment to use locally
-  // var db = new DeltaDB('greetings-db', 'http://localhost:8090');
+  var db = new DeltaDB('greetings-db', 'http://localhost:8090');
 
   var greetings = db.col('greetings');
 
