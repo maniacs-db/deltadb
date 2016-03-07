@@ -44,7 +44,7 @@
     "unlink": "npm unlink deltadb-common-utils && npm unlink deltadb-orm-nosql && npm install"
   },
   "dependencies": {
-    "bluebird": "^3.0.5",
+    "bluebird": "^3.3.4",
     "deltadb-common-utils": "0.0.4",
     "deltadb-orm-nosql": "0.0.4",
     "events": "^1.1.0",
